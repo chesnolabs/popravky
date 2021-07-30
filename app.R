@@ -38,10 +38,6 @@ source("functions.R") # Functions for network
 source("chesno_themes.R") # Functions for network
 
 
-# Fonts ####
-windowsFonts("OpenSans" = windowsFont("OpenSans"))
-
-
 # Load datasets that we need
 
 # From Rada Scraping
